@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\DUMP\\DUMP intership 2022 - 2023\\2. predavanje - C#\\Internship-2-C-Sharp\\Internship-2-C-Sharp.csproj": {}
+  },
+  "projects": {
+    "D:\\DUMP\\DUMP intership 2022 - 2023\\2. predavanje - C#\\Internship-2-C-Sharp\\Internship-2-C-Sharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DUMP\\DUMP intership 2022 - 2023\\2. predavanje - C#\\Internship-2-C-Sharp\\Internship-2-C-Sharp.csproj",
+        "projectName": "Internship-2-C-Sharp",
+        "projectPath": "D:\\DUMP\\DUMP intership 2022 - 2023\\2. predavanje - C#\\Internship-2-C-Sharp\\Internship-2-C-Sharp.csproj",
+        "packagesPath": "C:\\Users\\JJ\\.nuget\\packages\\",
+        "outputPath": "D:\\DUMP\\DUMP intership 2022 - 2023\\2. predavanje - C#\\Internship-2-C-Sharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
