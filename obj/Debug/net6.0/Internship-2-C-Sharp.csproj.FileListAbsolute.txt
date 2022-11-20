@@ -1,0 +1,15 @@
+D:\DUMP\DUMP intership 2022 - 2023\2. predavanje - C#\Internship-2-C-Sharp\bin\Debug\net6.0\Internship-2-C-Sharp.exe
+D:\DUMP\DUMP intership 2022 - 2023\2. predavanje - C#\Internship-2-C-Sharp\bin\Debug\net6.0\Internship-2-C-Sharp.deps.json
+D:\DUMP\DUMP intership 2022 - 2023\2. predavanje - C#\Internship-2-C-Sharp\bin\Debug\net6.0\Internship-2-C-Sharp.runtimeconfig.json
+D:\DUMP\DUMP intership 2022 - 2023\2. predavanje - C#\Internship-2-C-Sharp\bin\Debug\net6.0\Internship-2-C-Sharp.dll
+D:\DUMP\DUMP intership 2022 - 2023\2. predavanje - C#\Internship-2-C-Sharp\bin\Debug\net6.0\Internship-2-C-Sharp.pdb
+D:\DUMP\DUMP intership 2022 - 2023\2. predavanje - C#\Internship-2-C-Sharp\obj\Debug\net6.0\Internship-2-C-Sharp.csproj.AssemblyReference.cache
+D:\DUMP\DUMP intership 2022 - 2023\2. predavanje - C#\Internship-2-C-Sharp\obj\Debug\net6.0\Internship-2-C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DUMP\DUMP intership 2022 - 2023\2. predavanje - C#\Internship-2-C-Sharp\obj\Debug\net6.0\Internship-2-C-Sharp.AssemblyInfoInputs.cache
+D:\DUMP\DUMP intership 2022 - 2023\2. predavanje - C#\Internship-2-C-Sharp\obj\Debug\net6.0\Internship-2-C-Sharp.AssemblyInfo.cs
+D:\DUMP\DUMP intership 2022 - 2023\2. predavanje - C#\Internship-2-C-Sharp\obj\Debug\net6.0\Internship-2-C-Sharp.csproj.CoreCompileInputs.cache
+D:\DUMP\DUMP intership 2022 - 2023\2. predavanje - C#\Internship-2-C-Sharp\obj\Debug\net6.0\Internship-2-C-Sharp.dll
+D:\DUMP\DUMP intership 2022 - 2023\2. predavanje - C#\Internship-2-C-Sharp\obj\Debug\net6.0\refint\Internship-2-C-Sharp.dll
+D:\DUMP\DUMP intership 2022 - 2023\2. predavanje - C#\Internship-2-C-Sharp\obj\Debug\net6.0\Internship-2-C-Sharp.pdb
+D:\DUMP\DUMP intership 2022 - 2023\2. predavanje - C#\Internship-2-C-Sharp\obj\Debug\net6.0\Internship-2-C-Sharp.genruntimeconfig.cache
+D:\DUMP\DUMP intership 2022 - 2023\2. predavanje - C#\Internship-2-C-Sharp\obj\Debug\net6.0\ref\Internship-2-C-Sharp.dll
